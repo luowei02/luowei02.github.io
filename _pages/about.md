@@ -20,7 +20,13 @@ redirect_from:
 👋I'm Luowei,a student from iat,University of Science and Technology of China.
 I'm studying in advanced tech in digital integrated circuit chips and electrical design automation!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🧍‍♂️ Biography
+I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward an M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.
+
+My research interests include 
+- **[Physics Design of Digital Integrated CircuitS]**
+- **[CAD:Electronic Design Automation]**
+- **[Graph Algorithms]**
 
 
 # 🔥 News
