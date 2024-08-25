@@ -38,7 +38,7 @@ My research interests include
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2024</div><img src='https://raw.githubusercontent.com/luowei02/luowei02.github.io/main/_pages/images/paper001.png' alt="描述" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<h3>Paper Topic:* * * * * * * * * * * * * * * * * * * * * * * *</h3>](https://luowei02.github.io)
+**[Paper Topic:* * * * * * * * * * * * * * *](https://luowei02.github.io)**
 
 **Wei Luo**, Person A, Person B, et al.
 
