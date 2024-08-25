@@ -35,7 +35,7 @@ My research interests include
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2024</div><img src='images/paper001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2024</div><img src='main/images/paper001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Paper Topic:* * * * * * * * * * * * * * * * * * * * * * * *](https://luowei02.github.io)
