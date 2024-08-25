@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-
+<hr>
 # 🧍‍♂️ Biography
 I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward an M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.
 
@@ -62,6 +62,5 @@ My research interests include
 # 💻 Internships
 - *2023.07 - 2023.08*  [Suzhou Institute of Nano-tech and Nano-bionics, Chinese Academy of Sciences](http://nanodevices.sinano.ac.cn/), Suzhou, China.
 
-<div>
 
-</div>
+<hr>
