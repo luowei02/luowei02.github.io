@@ -38,17 +38,13 @@ My research interests include
 <div class='paper-box-text' markdown="1">
 
 
-**[Paper Topic:* * * * * * * * * * * * * * *](https://luowei02.github.io)**
+**[Paper Name:************************](https://luowei02.github.io), Sicence 2024**
 
 **Wei Luo**, Person A, Person B, et al.
 
 **Keywords**
 - Keywords one
 - Keywords two
--
--
--
-- [Paper Name:************************](https://luowei02.github.io), Wei Luo, B, C, **Sicence 2024**
 
 </div>
 </div>
