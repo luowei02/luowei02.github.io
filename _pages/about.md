@@ -24,7 +24,7 @@ redirect_from:
 I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward an M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.
 
 My research interests include 
-- **Physics Design of Digital Integrated CircuitS**
+- **Physics Design of Digital Integrated Circuits**
 - **CAD:Electronic Design Automation**
 - **Graph Algorithms**
 
