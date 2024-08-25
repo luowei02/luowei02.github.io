@@ -55,7 +55,8 @@ My research interests include
 # 📖 Educations
 - *2024.06 - 2027.04(now)*  M.S. University of Science and Technology of China, Integrated Circuit Engineering. 
 - *2020.09 - 2024.06*  B.S. Nanjing University of Science and Technology, Nano Material and Technology.
-
+**Course Learning:**
+- 1.VLSI CAD:PartⅠLogic([note click here](README.md))
 # 💬 Invited Talks
 
 
