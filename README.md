@@ -1,6 +1,6 @@
 
 <h1 align="center">
-AcadHomepage:https:[https://luowei02.github.io/](https://luowei02.github.io/)
+My AcadHomepage:https:https://luowei02.github.io/
 </h1>
 
 <div align="center">
