@@ -57,7 +57,7 @@ My research interests include
 - *2020.09 - 2024.06*  B.S. Nanjing University of Science and Technology, Nano Material and Technology.
 
  **Course Learning:**
-- 1.VLSI CAD:PartⅠLogic([note click here](https://luowei02.github.io/blob/main/docs/VLSI-CAD.pdf))
+- 1.VLSI CAD:PartⅠLogic([note click here](https://easybadminton.github.io/VLSI-CAD/VLSICAD.pdf))
 # 💬 Invited Talks
 
 
