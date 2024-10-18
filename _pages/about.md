@@ -20,8 +20,7 @@ redirect_from:
 
 <hr>
 # <font size=5>🧍‍♂️Biography</font> 
-<font size=4>
-I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward a M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.</font>
+I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward a M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.
 
 <font size=4>My research interests include</font>
 - **Physics Design of Digital Integrated Circuits**
