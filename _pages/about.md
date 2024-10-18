@@ -49,7 +49,7 @@ I received a B.S. degree in Nano Material and Technology from [Nanjing Universit
 </div>
 
 # 🎖 <font size=5>Honors and Awards</font>
-- *2022.11*  <font size=4>Team Champion of NJUST Campus Badminton Tournament. </font>
+- *2022.11*  Team Champion of NJUST Campus Badminton Tournament. 
 
 # 📖 <font size=5>Educations</font>
 - *2024.06 - 2027.04(now)*  M.S. University of Science and Technology of China, Integrated Circuit Engineering. 
