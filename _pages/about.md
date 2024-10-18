@@ -18,52 +18,58 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-
-# 🧍‍♂️Biography 
-<font size=6>1234</font>
-I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward a M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China. 
+<hr>
+# <font size=5>🧍‍♂️Biography</font> 
+<font size=4>
+I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward a M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.
 
 My research interests include 
 - **Physics Design of Digital Integrated Circuits**
 - **CAD:Electronic Design Automation**
 - **Graph Algorithms**
+</font>
 
-
-# 🔥 News
-
+# <font size=5>🔥 News</font>
+<font size=4>
 - *2024.06*: &nbsp;🎉🎉 I get my Acceptance Letter for Graduate Students.
+</font>
 
-# 📝 Publications 
+# <font size=5>📝 Publications </font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2024</div><img src='images/paper001.png' alt="描述" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-**[Paper Name:************************](https://luowei02.github.io), Sicence 2024**
+<font size=4> **[Paper Name:************************](https://luowei02.github.io), Sicence 2024**
 
 **Wei Luo**, Person A, Person B, et al.
 
 **Keywords**
 - Keywords one
 - Keywords two
-
+</font>
 </div>
 </div>
 
 # 🎖 Honors and Awards
+<font size=4>
 - *2022.11*  Team Champion of NJUST Campus Badminton Tournament. 
+</font>
 
 # 📖 Educations
+<font size=4>
 - *2024.06 - 2027.04(now)*  M.S. University of Science and Technology of China, Integrated Circuit Engineering. 
 - *2020.09 - 2024.06*  B.S. Nanjing University of Science and Technology, Nano Material and Technology.
 
  **Course Learning:**
 - 1.VLSI CAD:PartⅠLogic([note click here](https://easybadminton.github.io/VLSI-CAD/VLSICAD.pdf))
+<\font>
 # 💬 Invited Talks
-
+- 
 
 # 💻 Internships
+<font size=4>
 - *2023.07 - 2023.08*  [Suzhou Institute of Nano-tech and Nano-bionics, Chinese Academy of Sciences](http://nanodevices.sinano.ac.cn/), Suzhou, China.
-
+</font>
 
 <hr>
