@@ -20,12 +20,12 @@ redirect_from:
 
 <hr>
 # <font size=5>🧍‍♂️Biography</font> 
-I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward a M.S. degree in Integrated Circuit Engineering at Institute of Advanced Technology, [University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.
+I received a B.S. degree in Nano Material and Technology from [Nanjing University of Science and Technology](https://smse.njust.edu.cn/), Nanjing, China, in 2024. I am currently working toward a M.S. degree in Computer Architecture(AI Accelerator Design) at [Institute of Advanced Technology, University of Science and Technology of China](https://iat.ustc.edu.cn/), Hefei, China.
 
 <font size=4>My research interests include</font>
-- **Physics Design of Digital Integrated Circuits**
-- **CAD:Electronic Design Automation**
-- **Graph Algorithms**
+- **Advanced Hardware Design for Parallel Computing**
+- **Software-Hardware Co-design for GEMM Computation in LLMs**
+- **Efficent Hardware Design for AI Acceleration**
 
 # <font size=5>🔥 News</font>
 
@@ -33,11 +33,11 @@ I received a B.S. degree in Nano Material and Technology from [Nanjing Universit
 
 # <font size=5>📝 Publications </font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2024</div><img src='images/paper001.png' alt="描述" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/paper001.png' alt="描述" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-**[Paper Name:************************](https://luowei02.github.io), Sicence 2024**
+**[Paper Name: Bit-Assemble: An Efficent Architecture for Deep Learning Computing with Primative](https://luowei02.github.io), HPCA 2026**
 
 **Wei Luo**, Person A, Person B, et al.
 
