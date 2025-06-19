@@ -25,7 +25,7 @@ I received a B.S. degree in Nano Material and Technology from [Nanjing Universit
 <font size=4>My research interests include</font>
 - **Advanced Hardware Design for Parallel Computing**
 - **Software-Hardware Co-design for GEMM Computation in LLMs**
-- **Efficent Hardware Design for AI Acceleration**
+- **Efficent Hardware Design for Energy Saving**
 
 # <font size=5>🔥 News</font>
 
