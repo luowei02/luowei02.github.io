@@ -1,7 +1,7 @@
 
 # Site Settings
 title                    : "Luowei"
-description              : "Everything is possible in Electronic Design Automation(EDA)!"
+description              : "AI Accelerator, Efficient Processing of DNNs, Hardware Design for Ultra Efficent GEMM Computation."
 repository               : "luowei02/luowei02.github.io"
 google_scholar_stats_use_cdn : true
 
