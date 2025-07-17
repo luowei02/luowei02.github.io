@@ -37,7 +37,7 @@ I received a B.S. degree in Nano Material and Technology from [Nanjing Universit
 <div class='paper-box-text' markdown="1">
 
 
-**[Paper Name: Bit-Assemble: An Efficent Architecture for Deep Learning Computing with Primative](https://luowei02.github.io), HPCA 2026**
+**[Paper Name: 。。。](https://luowei02.github.io), HPCA**
 
 **Wei Luo**, Person A, Person B, et al.
 
